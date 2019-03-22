@@ -30,13 +30,13 @@
 ## 3. golang开源项目
 > 在这里我们了解go，学习go，调侃go ~~
 
-- [1.seelog--浏览器实时查看日志](golang开源项目/seelog_浏览器实时查看日志.md)<br>
-- [2.open--小巧的打开框架](golang开源项目/open--小巧的工具框架.md)<br>
-- [3.melody_websocket框架](golang开源项目/melody_websocket框架.md)<br>
-- [4.grpc_go语言的RPC系统](golang开源项目/grpc_go语言的RPC系统.md)<br>
-- [5.gorm--orm框架](golang开源项目/gorm--orm框架.md)<br>
-- [6.casbin--权限控制框架](golang开源项目/casbin--权限控制框架.md)<br>
-- [7.colly--好用的爬虫框架](golang开源项目/colly--好用的爬虫框架.md)<br>
+- [1.seelog--浏览器实时查看日志](golang框架学习/seelog_浏览器实时查看日志.md)<br>
+- [2.open--小巧的打开框架](golang框架学习/open--小巧的工具框架.md)<br>
+- [3.melody_websocket框架](golang框架学习/melody_websocket框架.md)<br>
+- [4.grpc_go语言的RPC系统](golang框架学习/grpc_go语言的RPC系统.md)<br>
+- [5.gorm--orm框架](golang框架学习/gorm--orm框架.md)<br>
+- [6.casbin--权限控制框架](golang框架学习/casbin--权限控制框架.md)<br>
+- [7.colly--好用的爬虫框架](golang框架学习/colly--好用的爬虫框架.md)<br>
 
 ## 4. golang书籍大全
  > 一步一步似爪牙 是魔鬼的步伐 是魔鬼的步伐
